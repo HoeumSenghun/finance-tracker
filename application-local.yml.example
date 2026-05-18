@@ -1,0 +1,8 @@
+# Copy this file to application-local.yml (project root) and set your PostgreSQL password.
+# application-local.yml is loaded automatically and is not committed to git.
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/finance_tracker
+    username: postgres
+    password: YOUR_POSTGRES_PASSWORD_HERE
