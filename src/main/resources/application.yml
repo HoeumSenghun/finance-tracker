@@ -26,5 +26,11 @@ jwt:
   access-token-expiry: 900000
   refresh-token-expiry: 604800000
 
+#900000 ms ÷ 1000 = 900 seconds
+#900 seconds ÷ 60 = 15 minutes
+
+#604800000 ms ÷ 1000 = 604800 seconds
+#604800 seconds ÷ 60 ÷ 60 ÷ 24 = 7 days
+
 file:
   upload-dir: ./uploads
