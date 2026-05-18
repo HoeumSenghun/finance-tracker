@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/report/ReportController.java
 package com.financetracker.report;
 
 import com.financetracker.common.ApiResponse;

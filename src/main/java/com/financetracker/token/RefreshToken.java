@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/token/RefreshToken.java
 package com.financetracker.token;
 
 import com.financetracker.user.User;

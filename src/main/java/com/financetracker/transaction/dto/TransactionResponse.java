@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/transaction/dto/TransactionResponse.java
 package com.financetracker.transaction.dto;
 
 import com.financetracker.common.enums.TransactionType;

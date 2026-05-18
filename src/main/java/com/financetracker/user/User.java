@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/user/User.java
 package com.financetracker.user;
 
 import jakarta.persistence.Column;

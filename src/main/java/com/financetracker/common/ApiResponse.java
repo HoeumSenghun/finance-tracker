@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/common/ApiResponse.java
 package com.financetracker.common;
 
 import lombok.AllArgsConstructor;

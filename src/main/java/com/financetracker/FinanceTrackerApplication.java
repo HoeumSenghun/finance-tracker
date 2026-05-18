@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/FinanceTrackerApplication.java
 package com.financetracker;
 
 import org.springframework.boot.SpringApplication;

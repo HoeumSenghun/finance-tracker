@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/security/JwtFilter.java
 package com.financetracker.security;
 
 import jakarta.servlet.FilterChain;

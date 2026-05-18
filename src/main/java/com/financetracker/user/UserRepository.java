@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/user/UserRepository.java
 package com.financetracker.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;

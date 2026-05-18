@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/transaction/TransactionRepository.java
 package com.financetracker.transaction;
 
 import org.springframework.data.jpa.repository.JpaRepository;

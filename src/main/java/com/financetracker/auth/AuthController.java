@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/auth/AuthController.java
 package com.financetracker.auth;
 
 import com.financetracker.auth.dto.LoginRequest;
