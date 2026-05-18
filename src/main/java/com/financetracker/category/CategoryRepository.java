@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/category/CategoryRepository.java
 package com.financetracker.category;
 
 import org.springframework.data.jpa.repository.JpaRepository;

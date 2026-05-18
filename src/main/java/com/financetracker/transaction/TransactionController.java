@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/transaction/TransactionController.java
 package com.financetracker.transaction;
 
 import com.financetracker.common.ApiResponse;

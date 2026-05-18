@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/security/UserDetailsServiceImpl.java
 package com.financetracker.security;
 
 import com.financetracker.user.UserRepository;

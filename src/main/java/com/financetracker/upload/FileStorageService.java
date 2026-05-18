@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/upload/FileStorageService.java
 package com.financetracker.upload;
 
 import lombok.extern.slf4j.Slf4j;

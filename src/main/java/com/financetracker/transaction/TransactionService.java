@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/transaction/TransactionService.java
 package com.financetracker.transaction;
 
 import com.financetracker.category.Category;

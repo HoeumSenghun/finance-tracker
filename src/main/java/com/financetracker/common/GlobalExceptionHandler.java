@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/common/GlobalExceptionHandler.java
 package com.financetracker.common;
 
 import com.financetracker.common.exception.EmailAlreadyExistsException;

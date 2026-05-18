@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/security/JwtUtil.java
 package com.financetracker.security;
 
 import com.financetracker.user.User;

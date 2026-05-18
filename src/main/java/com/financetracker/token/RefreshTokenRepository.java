@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/token/RefreshTokenRepository.java
 package com.financetracker.token;
 
 import org.springframework.data.jpa.repository.JpaRepository;

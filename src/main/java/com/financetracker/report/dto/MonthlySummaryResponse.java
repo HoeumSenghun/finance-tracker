@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/report/dto/MonthlySummaryResponse.java
 package com.financetracker.report.dto;
 
 import lombok.AllArgsConstructor;

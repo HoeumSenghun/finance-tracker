@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/upload/FileController.java
 package com.financetracker.upload;
 
 import lombok.RequiredArgsConstructor;

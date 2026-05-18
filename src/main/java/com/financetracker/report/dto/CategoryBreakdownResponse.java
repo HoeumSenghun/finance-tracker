@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/report/dto/CategoryBreakdownResponse.java
 package com.financetracker.report.dto;
 
 import com.financetracker.common.enums.TransactionType;

@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/security/SecurityConfig.java
 package com.financetracker.security;
 
 import lombok.RequiredArgsConstructor;

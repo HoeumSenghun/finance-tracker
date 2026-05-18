@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/transaction/TransactionMapper.java
 package com.financetracker.transaction;
 
 import com.financetracker.transaction.dto.TransactionRequest;

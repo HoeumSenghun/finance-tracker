@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/category/CategoryMapper.java
 package com.financetracker.category;
 
 import com.financetracker.category.dto.CategoryRequest;

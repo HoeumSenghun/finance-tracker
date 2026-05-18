@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/auth/dto/RefreshTokenRequest.java
 package com.financetracker.auth.dto;
 
 import jakarta.validation.constraints.NotBlank;

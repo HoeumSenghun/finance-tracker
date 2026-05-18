@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/security/JwtAuthenticationEntryPoint.java
 package com.financetracker.security;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

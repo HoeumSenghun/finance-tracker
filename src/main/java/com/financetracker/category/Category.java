@@ -1,4 +1,3 @@
-// src/main/java/com/financetracker/category/Category.java
 package com.financetracker.category;
 
 import com.financetracker.common.enums.TransactionType;
